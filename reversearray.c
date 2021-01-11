@@ -35,5 +35,5 @@
    {
        printf("%d ", a[i]);
    }
-
+   return 0;
  }
